@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AddressBook>
+   <Entry>
+      <PhoneNumber>(508) 647-7001</PhoneNumber>
+      <Address hasZip="no" type="work">3 Apple Hill Dr, Natick MA</Address>
+   </Entry>
+   <Entry>
+   	  <Name>Friendly J. Mathworke</Name>
+      <PhoneNumber>(508) 647-7005</PhoneNumber>
+      <Address hasZip="no" type="work">3 Apple Hill Dr, Natick MA</Address>
+   </Entry>
+</AddressBook>
